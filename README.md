@@ -1,2 +1,2 @@
-# React_Learning_v1
+# React Camp
 This project only for learning react. It will contain only practices
